@@ -1,0 +1,49 @@
+{
+  "address": "",
+  "country": "Chile",
+  "devices": [
+    {
+      "dataConfig": {
+        "ackConfirm": "06",
+        "ackReject": "15",
+        "dataLineBreak": "0D",
+        "dataSeparator": "7C",
+        "msgEnd": "1C0D",
+        "msgStart": "0B",
+        "protocolType": "HL7",
+        "requiredAck": false
+      },
+      "ip": "192.168.1.105",
+      "name": "Nano Checker 710",
+      "type": "PCR"
+    },
+    {
+      "dataConfig": {
+        "ackConfirm": "06",
+        "ackReject": "15",
+        "dataLineBreak": "0D",
+        "dataSeparator": "7C",
+        "msgEnd": "04",
+        "msgStart": "05",
+        "requiredAck": true
+      },
+      "ip": "192.168.1.106",
+      "name": "",
+      "type": ""
+    }
+  ],
+  "name": "",
+  "phone": "+133344455",
+  "server": {
+    "extInputFile": ".json",
+    "extLogFile": ".log",
+    "hostName": "192.168.1.99",
+    "intervalReadInputData": 3000,
+    "intervalRefreshLog": 30000,
+    "pathDataConfig": "/euruspro/config/config-device.json",
+    "pathDataInput": "/euruspro/data/input",
+    "pathDataInputBackup": "/euruspro/data/bk-input",
+    "pathErrorLog": "/euruspro/log/server-listen",
+    "port": 12888
+  }
+}

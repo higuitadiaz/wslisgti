@@ -1,0 +1,15 @@
+{
+  "extInputFile": ".json",
+  "extLogFile": ".log",
+  "ip": "127.0.0.1",
+  "name": "server001",
+  "APIHostName": "https://localhost:5005",
+  "intervalReadInputData": 3000,
+  "intervalRefreshLog": 30000,
+  "pathDataConfig": "/euruspro/config/config-device.json",
+  "pathDataInput": "/euruspro/data/input",
+  "pathDataInputBackup": "/euruspro/data/bk-input",
+  "pathErrorLog": "/euruspro/log/server-listen",
+  "port": 12888,
+  "type": "LIS"
+}

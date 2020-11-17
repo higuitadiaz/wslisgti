@@ -1,0 +1,59 @@
+{
+  "name": "wspd01",
+  "version": "1.1.3",
+  "description": "EURUS PRO Server LIS Remote",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "nodemon",
+    "start:debug": "nodemon --config nodemon-debug.json",
+    "prestart:prod": "rimraf dist && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "tslint -p tsconfig.json -c tslint.json",
+    "build": "tsc -p tsconfig.build.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euruspro/wspd01.git"
+  },
+  "keywords": [
+    "euruspro",
+    "pro"
+  ],
+  "author": "Adrian Higuita <adrian.higuita@eurus.pro>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mkdirp": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase": "^8.0.2",
+    "firebase-admin": "^9.4.1",
+    "mkdirp": "^1.0.4",
+    "rimraf": "^3.0.2",
+    "ws": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.7",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.1.2",
+    "supertest": "^6.0.1",
+    "ts-jest": "^26.4.4",
+    "ts-node": "^9.0.0",
+    "tsconfig-paths": "^3.9.0",
+    "tslint": "^6.1.3",
+    "typescript": "^4.0.5"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "ts"
+    ],
+    "rootDir": "src",
+    "testRegex": ".spec.ts$",
+    "transform": {
+      "^.+\\.(t|j)s$": "ts-jest"
+    },
+    "coverageDirectory": "../coverage",
+    "testEnvironment": "node"
+  }
+}

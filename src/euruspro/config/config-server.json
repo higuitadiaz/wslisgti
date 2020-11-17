@@ -1,0 +1,11 @@
+{
+  "id": "fPjuR1NYPNSukNOT9DDQ",
+  "extInputFile": ".json",
+  "extLogFile": ".log",
+  "ip": "192.168.1.86",
+  "name": "CHLSRV001",
+  "pathDataConfig": "",
+  "pathDataInput": "/euruspro/data/input",
+  "pathDataInputBackup": "/euruspro/data/bk-input",
+  "pathErrorLog": "/euruspro/log/server-listen"
+}

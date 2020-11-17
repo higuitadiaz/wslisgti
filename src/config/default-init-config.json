@@ -1,0 +1,10 @@
+{
+  "dataRootName": "/objects/results/data/default",
+  "serverPath": "promedar/objects/servers/data/default",
+  "devicesPath": "promedar/objects/devices/data/default",
+  "configPath": "promedar/objects/devconfig/data/default",
+  "setupPath": "promedar/objects/devsetup/data/default",
+  "siteId": "promedar",
+  "serverName": "CHLSRV001",
+  "appId": "1:506777559596:web:ac9d05c8714588e5fee789"
+}

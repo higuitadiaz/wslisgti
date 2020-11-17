@@ -1,0 +1,1814 @@
+{
+  "12900": {
+    "name": "Panel cardiaco (Demo1)",
+    "allowEdit": true,
+    "port": "12900",
+    "id": "asMstVla7VgSlu3gZLji",
+    "isActive": true,
+    "lastModifiedDate": { "_seconds": 1578354927, "_nanoseconds": 185000000 },
+    "note": "AFIAS -1 para demostraciones a clientes.",
+    "createdDate": { "_seconds": 1578354927, "_nanoseconds": 185000000 },
+    "__index": 0,
+    "projectId": "promedar",
+    "ownerId": {
+      "_firestore": {
+        "_settings": {
+          "libVersion": "2.6.0 fire/8.6.1",
+          "firebaseVersion": "8.6.1",
+          "projectId": "euruspro",
+          "libName": "gccl"
+        },
+        "_preferTransactions": false,
+        "_settingsFrozen": true,
+        "_lastSuccessfulRequest": 1578354998262,
+        "_clientPool": {
+          "concurrentOperationLimit": 100,
+          "clientFactory": {},
+          "activeClients": {}
+        },
+        "_projectId": "euruspro",
+        "_serializer": { "createReference": {}, "timestampsInSnapshots": true }
+      },
+      "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+    },
+    "qcDays": "30",
+    "config": [
+      {
+        "createdDate": { "_seconds": 1578519976, "_nanoseconds": 116000000 },
+        "label": "ETB",
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "value": "17",
+        "omitNext": false,
+        "lastModifiedDate": {
+          "_seconds": 1578519976,
+          "_nanoseconds": 116000000
+        },
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "title": "EndBlock"
+      },
+      {
+        "label": "BAR",
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "value": "7C",
+        "omitNext": "",
+        "lastModifiedDate": {
+          "_seconds": 1578519724,
+          "_nanoseconds": 785000000
+        },
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "title": "LineSeparator",
+        "createdDate": { "_seconds": 1578519724, "_nanoseconds": 785000000 }
+      },
+      {
+        "createdDate": { "_seconds": 1578520061, "_nanoseconds": 139000000 },
+        "label": "STX",
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "value": "02",
+        "omitNext": false,
+        "lastModifiedDate": {
+          "_seconds": 1578520061,
+          "_nanoseconds": 139000000
+        },
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "title": "StartText"
+      },
+      {
+        "__index": 0,
+        "projectId": "promedar",
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "omitNext": "",
+        "label": "ENQ",
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "allowEdit": true,
+        "id": "DlBwgzUqzpwYmr7azKCL",
+        "value": "0B",
+        "title": "Enquiry",
+        "lastModifiedDate": {
+          "_seconds": 1578519414,
+          "_nanoseconds": 787000000
+        },
+        "createdDate": { "_seconds": 1578519414, "_nanoseconds": 787000000 }
+      },
+      {
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "omitNext": true,
+        "label": "AckRequired",
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "allowEdit": true,
+        "id": "NnIIzXR68DBkoYH2dooq",
+        "value": "true",
+        "title": "AckRequired",
+        "lastModifiedDate": {
+          "_seconds": 1578519278,
+          "_nanoseconds": 392000000
+        },
+        "createdDate": { "_seconds": 1578519278, "_nanoseconds": 392000000 },
+        "__index": 0,
+        "projectId": "promedar"
+      },
+      {
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "value": "09",
+        "omitNext": false,
+        "lastModifiedDate": {
+          "_seconds": 1578520120,
+          "_nanoseconds": 111000000
+        },
+        "title": "CharTabulation",
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "createdDate": { "_seconds": 1578520120, "_nanoseconds": 111000000 },
+        "label": "HT"
+      },
+      {
+        "createdDate": { "_seconds": 1578519623, "_nanoseconds": 932000000 },
+        "__index": 0,
+        "projectId": "promedar",
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "omitNext": true,
+        "label": "Encoding",
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "allowEdit": true,
+        "id": "SAWLGqbrSqPuqLIw0UJX",
+        "value": "HEX",
+        "title": "Encoding",
+        "lastModifiedDate": {
+          "_seconds": 1578519623,
+          "_nanoseconds": 932000000
+        }
+      },
+      {
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "allowEdit": true,
+        "value": "0B",
+        "id": "cyFMoECeUeMR5AbjoyoY",
+        "title": "LineTabulation",
+        "lastModifiedDate": {
+          "_seconds": 1578447900,
+          "_nanoseconds": 14000000
+        },
+        "createdDate": { "_nanoseconds": 14000000, "_seconds": 1578447900 },
+        "__index": 0,
+        "projectId": "promedar",
+        "ownerId": {
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] },
+          "_firestore": {
+            "_projectId": "euruspro",
+            "_serializer": {
+              "createReference": {},
+              "timestampsInSnapshots": true
+            },
+            "_settings": {
+              "firebaseVersion": "8.6.1",
+              "projectId": "euruspro",
+              "libName": "gccl",
+              "libVersion": "2.6.0 fire/8.6.1"
+            },
+            "_preferTransactions": false,
+            "_settingsFrozen": true,
+            "_lastSuccessfulRequest": 1578514373551,
+            "_clientPool": {
+              "activeClients": {},
+              "concurrentOperationLimit": 100,
+              "clientFactory": {}
+            }
+          }
+        },
+        "omitNext": false,
+        "label": "VT"
+      },
+      {
+        "label": "EOT",
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "value": "1C0D",
+        "omitNext": false,
+        "lastModifiedDate": {
+          "_seconds": 1578519914,
+          "_nanoseconds": 985000000
+        },
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "title": "EndTransmission",
+        "createdDate": { "_seconds": 1578519914, "_nanoseconds": 985000000 }
+      },
+      {
+        "projectId": "promedar",
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "omitNext": true,
+        "label": "Protocol",
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "allowEdit": true,
+        "id": "iaVhia5DSqj4x48y99pO",
+        "value": "ASTM",
+        "title": "Protocol",
+        "lastModifiedDate": {
+          "_seconds": 1578519191,
+          "_nanoseconds": 955000000
+        },
+        "createdDate": { "_seconds": 1578519191, "_nanoseconds": 955000000 },
+        "__index": 0
+      },
+      {
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "value": "0A",
+        "omitNext": false,
+        "lastModifiedDate": {
+          "_seconds": 1578520019,
+          "_nanoseconds": 903000000
+        },
+        "title": "LineFeed",
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "createdDate": { "_seconds": 1578520019, "_nanoseconds": 903000000 },
+        "label": "LF"
+      },
+      {
+        "createdDate": { "_seconds": 1578519956, "_nanoseconds": 167000000 },
+        "label": "ETX",
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "value": "03",
+        "omitNext": false,
+        "lastModifiedDate": {
+          "_seconds": 1578519956,
+          "_nanoseconds": 167000000
+        },
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "title": "EndText"
+      },
+      {
+        "value": "0D",
+        "omitNext": false,
+        "lastModifiedDate": {
+          "_seconds": 1578519874,
+          "_nanoseconds": 20000000
+        },
+        "title": "CarriageReturn",
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "createdDate": { "_seconds": 1578519874, "_nanoseconds": 20000000 },
+        "label": "CR",
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        }
+      },
+      {
+        "label": "NAK",
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "value": "15",
+        "omitNext": false,
+        "lastModifiedDate": {
+          "_seconds": 1578520091,
+          "_nanoseconds": 602000000
+        },
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "title": "RejectAcknowledge",
+        "createdDate": { "_seconds": 1578520091, "_nanoseconds": 602000000 }
+      },
+      {
+        "value": "06",
+        "omitNext": false,
+        "lastModifiedDate": {
+          "_seconds": 1578520046,
+          "_nanoseconds": 640000000
+        },
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        },
+        "title": "Acknowledge",
+        "createdDate": { "_seconds": 1578520046, "_nanoseconds": 640000000 },
+        "label": "ACK",
+        "projectId": "promedar",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        }
+      }
+    ],
+    "setup": [
+      {
+        "0": "",
+        "1": "",
+        "2": "identification",
+        "3": "pid",
+        "4": "",
+        "5": "",
+        "6": "",
+        "7": "",
+        "8": "sex",
+        "9": "",
+        "10": "",
+        "11": "",
+        "12": "",
+        "key": "504944",
+        "collectionName": "order",
+        "label": "PID-Patient",
+        "name": "patient",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "lastModifiedDate": {
+          "_seconds": 1578520803,
+          "_nanoseconds": 91000000
+        },
+        "createdDate": { "_seconds": 1578520803, "_nanoseconds": 91000000 },
+        "projectId": "promedar",
+        "ownerId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+        }
+      },
+      {
+        "0": null,
+        "1": "sequence",
+        "2": null,
+        "3": "sampleName",
+        "5": "result",
+        "6": "um",
+        "key": "4F4258",
+        "collectionName": null,
+        "label": "OBX-Result",
+        "name": "orderLine",
+        "allowEdit": true,
+        "deviceId": {
+          "_firestore": {
+            "_settings": {
+              "credentials": {
+                "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+                "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+              },
+              "projectId": "euruspro",
+              "firebaseVersion": "8.9.0",
+              "libName": "gccl",
+              "libVersion": "3.3.2 fire/8.9.0",
+              "servicePath": "firestore.googleapis.com",
+              "port": 443,
+              "clientConfig": {},
+              "scopes": [
+                "https://www.googleapis.com/auth/cloud-platform",
+                "https://www.googleapis.com/auth/datastore"
+              ]
+            },
+            "_settingsFrozen": true,
+            "_serializer": {},
+            "_projectId": "euruspro",
+            "_lastSuccessfulRequest": 1578576830661,
+            "_backoffSettings": {
+              "initialDelayMs": 100,
+              "maxDelayMs": 60000,
+              "backoffFactor": 1.3
+            },
+            "_preferTransactions": false,
+            "_clientPool": {
+              "concurrentOperationLimit": 100,
+              "maxIdleClients": 1,
+              "activeClients": {},
+              "terminated": false
+            }
+          },
+          "_path": {
+            "segments": [
+              "promedar",
+              "objects",
+              "devices",
+              "data",
+              "default",
+              "asMstVla7VgSlu3gZLji"
+            ]
+          }
+        },
+        "id": "Z1qizGKqzS10LipcIT4l",
+        "lastModifiedDate": {
+          "_seconds": 1578429659,
+          "_nanoseconds": 88000000
+        },
+        "createdDate": { "_seconds": 1578429659, "_nanoseconds": 88000000 },
+        "__index": 0,
+        "projectId": "promedar",
+        "ownerId": {
+          "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] },
+          "_firestore": {
+            "_serializer": {
+              "createReference": {},
+              "timestampsInSnapshots": true
+            },
+            "_settings": {
+              "firebaseVersion": "8.6.1",
+              "projectId": "euruspro",
+              "libName": "gccl",
+              "libVersion": "2.6.0 fire/8.6.1"
+            },
+            "_preferTransactions": false,
+            "_settingsFrozen": true,
+            "_lastSuccessfulRequest": 1578436756142,
+            "_clientPool": {
+              "clientFactory": {},
+              "activeClients": {},
+              "concurrentOperationLimit": 100
+            },
+            "_projectId": "euruspro"
+          }
+        }
+      }
+    ]
+  },
+  "12901": {
+    "name": "PCR (DEMO 2)",
+    "allowEdit": true,
+    "id": "WPv1oFjLmZ46owwvfUrZ",
+    "port": "12901",
+    "isActive": true,
+    "lastModifiedDate": { "_seconds": 1578576508, "_nanoseconds": 468000000 },
+    "note": "QuilRead Go para PCR",
+    "createdDate": { "_seconds": 1578576508, "_nanoseconds": 467000000 },
+    "__index": 0,
+    "projectId": "promedar",
+    "ownerId": {
+      "_firestore": {
+        "_settings": {
+          "credentials": {
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+            "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+          },
+          "projectId": "euruspro",
+          "firebaseVersion": "8.9.0",
+          "libName": "gccl",
+          "libVersion": "3.3.2 fire/8.9.0",
+          "servicePath": "firestore.googleapis.com",
+          "port": 443,
+          "clientConfig": {},
+          "scopes": [
+            "https://www.googleapis.com/auth/cloud-platform",
+            "https://www.googleapis.com/auth/datastore"
+          ]
+        },
+        "_settingsFrozen": true,
+        "_serializer": {},
+        "_projectId": "euruspro",
+        "_lastSuccessfulRequest": 1578576830661,
+        "_backoffSettings": {
+          "initialDelayMs": 100,
+          "maxDelayMs": 60000,
+          "backoffFactor": 1.3
+        },
+        "_preferTransactions": false,
+        "_clientPool": {
+          "concurrentOperationLimit": 100,
+          "maxIdleClients": 1,
+          "activeClients": {},
+          "terminated": false
+        }
+      },
+      "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+    },
+    "qcDays": "30",
+    "config": [],
+    "setup": []
+  },
+  "12902": {
+    "lastModifiedDate": { "_seconds": 1578576785, "_nanoseconds": 801000000 },
+    "ownerId": {
+      "_firestore": {
+        "_settings": {
+          "credentials": {
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8PyFaT1eP8Psp\nlbgVcCM3/6YoNBgoDa1vk5Wm41kSHSQndieiTUwCuPa9mkugDPF2ulYQ7G/sfA5Q\nUH1auuE/uHBSmb7gkORz35tkJ6tuqhHrvydbLP4RAaRwseocH5l4vIYO7s2q8v/n\nt97dM92ZnYgxtR8fda9IyzeIipv1LrZYThCGJ5182OEFqJA68qrLNZCVFI0XSUeh\nFVM6Ry51T1zU4Wq9rIcl57vapQGdKizWuMmORpAZO7rEIgSM69H7qU2Kirs7Q8hU\nJAXD2uxcFlC5Fa4cp3fJ/E5qb8WwsgqOt5qSTq1C3gWIb8Q48javaqLMrArhVqXz\ndZ3xuoDPAgMBAAECggEANDFCs5HdAq07TefTbqo1MZEBhhMPgYdtR0rBitBtAS8w\nN3q0eXT59qVG0AHoJtt/1T3LoAyV6ZjptQ3j+5Rl4G9oQRacjBHQLWpZYJb5Gokv\nx8+rf0WFubxdVduWP67pM8b9WkWOo2+VUS8zLNx0++LoAHQpyWStMT8ayhI4NG2B\n3dmWSxespJhm0VxalPkwl1wZvVcYp+j+S10dhyLFBLLIqJa2IJYpQ2/mSac7z/8s\n14Jl4LHRqnUjGqnvu4hO04d3MbrtxFlxF5lg9+AwBg9l68u7dJA/YhmqmSeITnW8\nMPeT3Vc/okX8VDcCRGdah8XgvgQ9U3zqStVRiqzK0QKBgQDheIFQVVIQEiiWCdX9\nTMcx81Z5OOHEJx6wbz52IIGTyDXb5fl1fhAR4859XcN4K2xOX6rzsWmUSUV80GbE\nLiRgwGUpl/LV05Xe9n5PzRRHcRbilyoMO9/QxrPqTfCOXYtBHQez+adrUt9SvEWT\nkjK2rZnjnrT9jWxRiSZoUZoNPwKBgQDVvFMvC7QlBa+E7VY9yYyc+vFXg6KZugHM\n/NTivymufhL37cRIPcEiGtofjFJuQbv/WknXUAWlUxTwyJy4+HV0Z13w2+bSSidE\nGp0EXxZGfdUAjBzFOspJqaui+IwvdNK1xCqA7QPrddYoE6AVytd+f3BxWsu3m8dd\nUN0QY5NYcQKBgQCB4yPLnXsq2usalAv8YdCWy/HS35vfnhGl3lADSPKcqcetKCyv\nLLIhPDTmL6+9eHZqJ96ZiGikDhnDr2KkPViji/I7Jde0qrE5wpI9cozuIw3l9uM4\nLP3gjbdzkPa1bNod5pVbbsStpQ4V4XPLcXtZlWSDphfpwSDXT8Uab3fpjQKBgGGx\nMYhIXi+p2J72aDvXmsjJvnQUu8ZuCZKrYZa+b4vNHlhqOhQW/ebbxSU0Wx0AOLCv\nkR6z+dCmF+UynMfC8NSixoJn0Kn/sNDlJS2xVJolu60DXcccZweiYMwdtN2gFQt1\nvUOukeMWuisZRUuQqkysbTWynXiv4EEby99I1DlRAoGBAKgG6hj5FV64fDa6bJWy\naJp/9GMPwmhszjvqR29Er5XqhQCKTueU5M7eWTLCCx40MyFuPxAOUvnrvJpKBWq6\nAAonGSAIsAtd58iMQVmln+dufTPWlWliucr47QWIHuZUPNoaEtn+RFw0ST4/DC9R\nv0FltI9eUzm8XySMoEg+EtGi\n-----END PRIVATE KEY-----\n",
+            "client_email": "firebase-adminsdk-clhcq@euruspro.iam.gserviceaccount.com"
+          },
+          "projectId": "euruspro",
+          "firebaseVersion": "8.9.0",
+          "libName": "gccl",
+          "libVersion": "3.3.2 fire/8.9.0",
+          "servicePath": "firestore.googleapis.com",
+          "port": 443,
+          "clientConfig": {},
+          "scopes": [
+            "https://www.googleapis.com/auth/cloud-platform",
+            "https://www.googleapis.com/auth/datastore"
+          ]
+        },
+        "_settingsFrozen": true,
+        "_serializer": {},
+        "_projectId": "euruspro",
+        "_lastSuccessfulRequest": 1578576830661,
+        "_backoffSettings": {
+          "initialDelayMs": 100,
+          "maxDelayMs": 60000,
+          "backoffFactor": 1.3
+        },
+        "_preferTransactions": false,
+        "_clientPool": {
+          "concurrentOperationLimit": 100,
+          "maxIdleClients": 1,
+          "activeClients": {},
+          "terminated": false
+        }
+      },
+      "_path": { "segments": ["users", "LYLN7aYfXff6mIGpZacttatIDZm2"] }
+    },
+    "note": "Afias-1 panel cardiaco para demostraciones a cliente",
+    "qcDays": "30",
+    "createdDate": { "_seconds": 1578576785, "_nanoseconds": 800000000 },
+    "name": "Panel cardiaco (Demo 3)",
+    "projectId": "promedar",
+    "allowEdit": true,
+    "port": "12902",
+    "isActive": true,
+    "id": "FKmNvM4xL5yTV1qkz764",
+    "config": [],
+    "setup": []
+  }
+}
